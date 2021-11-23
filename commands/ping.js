@@ -9,7 +9,7 @@ module.exports = {
             format: 'png',
             dynamic: true,
             size: 1024
-        }), "https://discord.gg/D7pq3m3")
+        }), "https://discord.gg/DISCORD_INVITE_ID")
         .setDescription(`**Discord latency**: \`${message.client.ws.ping}ms\``)
         .setThumbnail(client.user.avatarURL())
         .setTimestamp()
