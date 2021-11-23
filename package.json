@@ -1,9 +1,9 @@
 {
-    "name": "Paesta-tickets",
+    "name": "tickets-bot",
     "main": "main.js",
     "author": "Lนcαѕ",
     "version": "1.0.0",
-    "repository": "",
+    "repository": "https://github.com/LucasB25/tickets-bot",
     "description": "A cool Discord bot to manage tickets on your server",
     "scripts": {
         "start": "node main.js"
