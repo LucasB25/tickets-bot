@@ -10,16 +10,15 @@ module.exports = {
                 format: 'png',
                 dynamic: true,
                 size: 1024
-            }), "https://discord.gg/D7pq3m3")
+            }), "https://discord.gg/DISCORD_INVITE_ID")
             .setThumbnail(client.user.avatarURL())
             .setDescription(`**Used the prefix**: \`\`pt\`\` \n`)
-            .addField("**• Staffs**", "\`\`ptsetup\`\`.")
-            .addField("**• Information**", "\`\`pthelp\`\`, \`\`ptavatar\`\`, \`\`ptguildicon\`\`.")
-            .addField("**• Support**", "\`\`ptping\`\`, \`\`ptbotinfo\`\`.")
+            .addField("**• Staffs**", "\`\`!setup\`\`.")
+            .addField("**• Information**", "\`\`!help\`\`.")
+            .addField("**• Support**", "\`\`!ping\`\`.")
             .setColor("#ffffff")
-            .addField(`**Support**`, `• [\`Click here\`](https://discord.gg/D7pq3m3)`, !0)
-            .addField(`**Invite me**`, `• [\`Click here\`](https://discord.com/oauth2/authorize?client_id=912442038765633597&scope=bot&permissions=805694513)`, !0)
-            .addField(`**Top.gg**`, `• [\`Click here\`](https://top.gg/bot/912442038765633597)`, !0)
+            .addField(`**Support**`, `• [\`Click here\`](https://discord.gg/DISCORD_INVITE_ID)`, !0)
+            .addField(`**Invite me**`, `• [\`Click here\`](https://discord.com/oauth2/authorize?client_id=(BOT_ID)&scope=bot&permissions=805694513)`, !0)
             .setFooter("Help page ")
   
         message.channel.send({
