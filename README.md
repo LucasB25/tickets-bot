@@ -6,7 +6,7 @@
 
 - 🤝 My bot list [bot list Web](https://consteagle.com)
 - 🤝 My website [link Web](https://consteagle.com)
-        <h1></h1>
+        <h2></h2>
    <center>
         <h2>🧷 Links</h2>
         <div class="flex" style="display: flex;justify-content: center;flex-wrap: wrap;">
