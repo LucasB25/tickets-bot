@@ -1,3 +1,12 @@
+- 🔭 I’m currently working on Panais.<br>
+       • Link [Top.gg](https://top.gg/bot/707627135577358417)<br>
+- 🔭 I’m currently working on Paesta-Tickets.<br>
+       • Link [Top.gg](https://top.gg/bot/912442038765633597)<br>
+       • Link [Github](https://github.com/LucasB25/tickets-bot)
+
+- 🤝 My bot list [bot list Web](https://consteagle.com)
+- 🤝 My website [link Web](https://consteagle.com)
+        <h1></h1>
 
    <center>
         <h2>🧷 Links</h2>
