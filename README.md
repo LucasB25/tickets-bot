@@ -44,7 +44,7 @@
  
 **📁 Installation**
 
-Note: If you need help with the installation, you can join our [Discord Server](https://discord.gg/D7pq3m3).
+Note: If you need help with the installation, you can join our [Discord Server](https://discord.gg/Mwjk8dVUQJ).
 
 __Step 1.__
 
