@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on Paesta-Tickets.<br>
        • Link [Top.gg](https://top.gg/bot/912442038765633597)<br>
        • Link [Github](https://github.com/LucasB25/tickets-bot)
+- 🔭 I’m currently working on Paesta Music.<br>
+       • Link [ConstEagle](https://consteagle.com/bots/919721302783311914)<br>
 
 - 🤝 My bot list [bot list Web](https://consteagle.com)
 - 🤝 My website [link Web](https://consteagle.com)
@@ -22,7 +24,7 @@
                 color: black;
                 border-radius: 8px;
                 font-size: 16px;
-                font-weight: bold;" href="https://discord.gg/D7pq3m3"> Support server •</a>
+                font-weight: bold;" href="https://discord.gg/Mwjk8dVUQJ"> Support server •</a>
             <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" style="  margin: 2px 5px;
                 padding: 8px 15px;
                 background-color: #3A871F;
