@@ -1,14 +1,21 @@
 {
-    "name": "tickets-bot",
-    "main": "main.js",
-    "author": "Lนcαѕ",
-    "version": "1.0.0",
-    "repository": "https://github.com/LucasB25/tickets-bot",
-    "description": "A cool Discord bot to manage tickets on your server",
-    "scripts": {
-        "start": "node main.js"
-    },
-    "dependencies": {
-        "discord.js": "^13.3.1"
-    }
+  "name": "tickets-bot",
+  "main": "index.js",
+  "author": "LucasB25",
+  "version": "2.0.0",
+  "repository": "https://github.com/LucasB25/tickets-bot",
+  "description": "A cool Discord bot to manage tickets on your server",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "chalk": "^4.0.0",
+    "discord-api-types": "^0.33.0",
+    "discord.js": "^13.7.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.3",
+    "path": "^0.12.7",
+    "sourcebin_js": "^0.0.3-ignore"
+  }
 }
