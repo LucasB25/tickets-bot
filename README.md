@@ -30,3 +30,7 @@ module.exports = {
 **Start the bot**
 
 > `node index.js`
+
+## Information
+
+The main handler base was created from the directory [![Structure-Discord-Bot](https://github.com/meliooff/Structure-Discord-Bot)]
