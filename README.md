@@ -33,4 +33,4 @@ module.exports = {
 
 ## Information
 
-The main handler base was created from the directory [![Structure-Discord-Bot](https://github.com/meliooff/Structure-Discord-Bot)]
+The main handler base was created from the directory [Structure-Discord-Bot](https://github.com/meliooff/Structure-Discord-Bot)
