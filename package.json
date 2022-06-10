@@ -4,7 +4,7 @@
   "author": "LucasB25",
   "version": "2.0.0",
   "repository": "https://github.com/LucasB25/tickets-bot",
-  "description": "A cool Discord bot to manage tickets on your server",
+  "description": "A friendly bot to manage your discord tickets.",
   "scripts": {
     "start": "node index.js"
   },
