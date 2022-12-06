@@ -1,17 +1,59 @@
-# Tickets Bot [![Stars](https://img.shields.io/github/stars/LucasB25/tickets-bot)](https://github.com/LucasB25/tickets-bot)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
-  <h3 align="center">LucasB25</h3>
+## 📎 Requirements
 
-  <p align="center">
-    <br />
-    <a href="https://discord.gg/fbJFAs43vD">Support Server</a>
-  </p>
-</div>
+- [Nodejs](https://nodejs.org/download/release/v16.18.1/) v16 and more
+- [Discord.js](https://github.com/discordjs/discord.js/) v13
 
+### 🌐 Main
 
-# Configuration
+- Discord bot's
+  token `You should know why you need this or you won't go to this repo` [Get or create bot here](https://discord.com/developers/applications)
+- Your ID `for eval command. It's dangerous if eval accessible to everyone`
 
-For the configuration, `config.js` and replace the :
+## 🚀 Installation from source
+
+```bash
+git clone https://github.com/LucasB25/tickets-bot.git
+```
+
+After cloning, run
+
+```bash
+npm install
+```
+
+- Initialized the command slashs `node slash.js`
+
+- Start the bot with `node src/index.js`
+
+to snag all of the dependencies. Of course, you need [node](https://nodejs.org/download/release/v16.18.1/) installed. I also strongly recommend [nodemon](https://www.npmjs.com/package/nodemon) as it makes testing _much_ easier.
+
+## Intents
+
+<p align="center">
+  <a href="https://github.com/LucasB25/tickets-bot/">
+    <img src="https://media.discordapp.net/attachments/848492641585725450/894114853382410260/unknown.png">
+
+  </a>
+</p>
+When you are running the Code you must have gotten this Error. To fix this head over to your Bot's Discord Application and go to the Bot Settings and find this:
+
+<p align="center">
+  <a href="https://github.com/LucasB25/tickets-bot/">
+    <img src="https://user-images.githubusercontent.com/50886682/196232974-d9cfc18c-92c5-43bd-b1bc-ff1cae3df701.png">
+
+  </a>
+</p>
+Then turn on both of those Settings and click "Save Changes". Then you are done and it should be fixed!
+<!-- CONFIGURATION -->
+
+## ⚙️ Configurations
+
+- edit in `config.js`
 
 ```js
 module.exports = {
@@ -26,20 +68,32 @@ module.exports = {
 };
 ```
 
-# Commands
+<!-- ABOUT THE PROJECT -->
 
-**Installation**
+## 🌀 About
 
-> `npm install`
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasB25&repo=tickets-bot&theme=tokyonight)](https://github.com/LucasB25/tickets-bot)
 
-**Installation**
+## 💌 Support Server
 
-> `node slash`
+[![DiscordBanner](https://invidget.switchblade.xyz/fbJFAs43vD)](https://discord.gg/fbJFAs43vD)<br />
+[Support Server](https://discord.gg/fbJFAs43vD) - Eagle Bot-List Support Server Invite
 
-**Start the bot**
+## 🤝 Contributing
 
-> `node index.js`
+1. [Fork the repository](https://github.com/LucasB25/tickets-bot/fork)
+2. Clone your fork: `git clone https://github.com/your-username/tickets-bot.git`
+3. Create your feature branch: `git checkout -b my-new-feature`
+4. Stage changes `git add .`
+5. Commit your changes: `cz` OR `npm run commit` do not use `git commit`
+6. Push to the branch: `git push origin my-new-feature`
+7. Submit a pull request
 
-## Information
-
-The main handler base was created from the directory [Structure-Discord-Bot](https://github.com/meliooff/Structure-Discord-Bot)
+[contributors-shield]: https://img.shields.io/github/contributors/LucasB25/tickets-bot.svg?style=for-the-badge
+[contributors-url]: https://github.com/LucasB25/tickets-bot/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/LucasB25/tickets-bot.svg?style=for-the-badge
+[forks-url]: https://github.com/LucasB25/tickets-bot/network/members
+[stars-shield]: https://img.shields.io/github/stars/LucasB25/tickets-bot.svg?style=for-the-badge
+[stars-url]: https://github.com/LucasB25/tickets-bot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/LucasB25/tickets-bot.svg?style=for-the-badge
+[issues-url]: https://github.com/LucasB25/tickets-bot/issues
