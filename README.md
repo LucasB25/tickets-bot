@@ -28,7 +28,7 @@ npm install
 
 - Initialized the command slashs `node slash.js`
 
-- Start the bot with `node src/index.js`
+- Start the bot with `node index.js`
 
 to snag all of the dependencies. Of course, you need [node](https://nodejs.org/download/release/v16.18.1/) installed. I also strongly recommend [nodemon](https://www.npmjs.com/package/nodemon) as it makes testing _much_ easier.
 
@@ -77,7 +77,7 @@ module.exports = {
 ## 💌 Support Server
 
 [![DiscordBanner](https://invidget.switchblade.xyz/fbJFAs43vD)](https://discord.gg/fbJFAs43vD)<br />
-[Support Server](https://discord.gg/fbJFAs43vD) - Eagle Bot-List Support Server Invite
+[Support Server](https://discord.gg/fbJFAs43vD)
 
 ## 🤝 Contributing
 
