@@ -4,9 +4,7 @@
 
   <p align="center">
     <br />
-    <a href="https://discord.gg/ATYQ8GsDHR">Support Server</a>
-    ·
-    <a href="https://lucasb25.tk">Website</a>
+    <a href="https://discord.gg/fbJFAs43vD">Support Server</a>
   </p>
 </div>
 
